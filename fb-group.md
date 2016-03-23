@@ -1,8 +1,8 @@
 # FB社團
 
 > 社團的編排現在沒有依照任何規則去排序，只是單純列出我有加入的社團
->> 還有一些社團還沒放上來，後面會再補上
->>> 未來可能會做點排序，讓整個看起來順眼一點XD
+> 還有一些社團還沒放上來，後面會再補上
+> 未來可能會做點排序，讓整個看起來順眼一點XD
 
 * [SITCON學生計算機年會](https://www.facebook.com/groups/sitcon.tw/)
 * [DevOps Taiwan](https://www.facebook.com/groups/DevOpsTaiwan/?fref=ts)
