@@ -1,6 +1,6 @@
 * [SITCON學生計算機年會](https://www.facebook.com/groups/sitcon.tw/)
 * [DevOps Taiwan](https://www.facebook.com/groups/DevOpsTaiwan/?fref=ts)
 * [Docker.Taipei](https://www.facebook.com/groups/docker.taipei/?fref=ts)
-* [JSDC](https://www.facebook.com/JSDC.TW/?fref=ts)
+* [JSDC Taiwan](https://www.facebook.com/JSDC.TW/?fref=ts)
 * [台中前端社群](https://www.facebook.com/groups/taichung.f2e/?fref=ts)
 * [JavaScript.tw](https://www.facebook.com/groups/javascript.tw/?fref=ts)
