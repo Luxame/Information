@@ -7,3 +7,4 @@
 * [連猴子都能懂的Git入門指南| 貝格樂（Backlog）](https://backlogtool.com/git-guide/tw/)
 * [SITCON Workshop - Git 版本控制入門](http://denny.one/SITCON-workshop-2014-ncku-git/)
 * [Git 情境劇 - 好麻煩部落格](http://gogojimmy.net/2012/02/29/git-scenario/)
+* [Git用法速成手册](http://www.techug.com/utm_sourcetuicoolutm-2)
