@@ -4,3 +4,4 @@
 * [AppInventor 2](http://appinventor.mit.edu/explore/) - 使用樂高積木式的堆疊法來程式設計，可以讓無程式經驗的人做出簡易的Android App
 * [W3Schools](http://www.w3schools.com/) - 提供一些網站開發教學資料
 * [ECMAScript 6入門](http://es6.ruanyifeng.com/) - 介绍ECMAScript 6新引入的語法特性。
+* [Web 前端開發工具整理](https://github.com/doggy8088/frontend-tools) - 保哥整理列出一些 Web 前端開發的工具、函式庫與參考文件資料
