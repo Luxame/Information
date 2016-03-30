@@ -5,3 +5,4 @@
 * [W3Schools](http://www.w3schools.com/) - 提供一些網站開發教學資料
 * [ECMAScript 6入門](http://es6.ruanyifeng.com/) - 介绍ECMAScript 6新引入的語法特性。
 * [Web 前端開發工具整理](https://github.com/doggy8088/frontend-tools) - 保哥整理列出一些 Web 前端開發的工具、函式庫與參考文件資料
+* [NODESCHOOL](http://nodeschool.io/) - 以學習 javascript & Node js 為主，也有 git 相關練習資料
