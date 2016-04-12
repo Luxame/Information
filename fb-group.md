@@ -7,7 +7,6 @@
 
 ### JavaScript
 
-* [JSDC Taiwan](https://www.facebook.com/JSDC.TW/?fref=ts)
 * [JavaScript.tw](https://www.facebook.com/groups/javascript.tw/?fref=ts)
 * [ReactJS.tw](https://www.facebook.com/groups/reactjs.tw/)
 * [node.js台灣](https://www.facebook.com/groups/node.js.tw/)
