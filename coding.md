@@ -9,4 +9,4 @@
 * [最全的资源教程-前端涉及的所有知识体系](https://github.com/AutumnsWind/Front-end-tutorial) - 整理許多前端學習、參考資料
 * [freecodecamp](https://www.freecodecamp.com/) - Web 語言學習，且有 Gitter 和 FB 社團可以與人討論
 * [《Understanding ECMAScript 6》笔记](http://blog.e10t.net/understanding-ecmascript6-note/)
-* [79px](http://79px.com/)
+* [79px](http://79px.com/) - 提供網頁學習資源，包含 HTML 、 CSS 、 JavaScript
