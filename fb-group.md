@@ -116,6 +116,5 @@
 * [Free Code Camp Kaohsiung](https://www.facebook.com/groups/free.code.camp.kaohsiung/)
 * [Free Code Camp Taichung City](https://www.facebook.com/groups/free.code.camp.taichung.city/)
 * [UI 就是要U & I  - 使用經驗你與我](https://www.facebook.com/groups/UI.You.I/)
-* [React Native Taiwan](https://www.facebook.com/groups/1084440818288147/)
 * [cs50 中文討論區](https://www.facebook.com/groups/556507217856457/)
 * [Daily ui challenge@taiwan](https://www.facebook.com/groups/895693593842577/)
