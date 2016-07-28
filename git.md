@@ -6,3 +6,4 @@
 * [SITCON Workshop - Git 版本控制入門](http://denny.one/SITCON-workshop-2014-ncku-git/)
 * [Git 情境劇 - 好麻煩部落格](http://gogojimmy.net/2012/02/29/git-scenario/)
 * [Git用法速成手册](http://www.techug.com/utm_sourcetuicoolutm-2)
+* [五倍紅寶石 Git 課程簡報](https://speakerdeck.com/eddie/use-git-to-control-your-life)
