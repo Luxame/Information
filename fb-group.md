@@ -32,7 +32,8 @@
 
 ### 資訊安全 Information Security
 * [TDOH](https://www.facebook.com/groups/TDOHacker/?ref=browser)
-* [台灣駭客年會 HITCON 2016 奇葩獎](https://www.facebook.com/groups/HITCON/)
+* [台灣駭客年會 HITCON 討論區](https://www.facebook.com/groups/HITCON/)
+* [台灣駭客年會 HITCON 2016 奇葩獎](https://www.facebook.com/groups/HITCON78awards/)
 
 ### Open Source
 * [2015年嵌入式系統課程](https://www.facebook.com/groups/ncku.embedded2015/)
@@ -92,7 +93,6 @@
 * [Fedora 中文社團](https://www.facebook.com/groups/fedora.chinesegroup/)
 * [2015年嵌入式系統課程](https://www.facebook.com/groups/ncku.embedded2015/)
 * [Android Developer開發讀書會](https://www.facebook.com/groups/523386591081376/)
-* [台灣駭客年會 HITCON 2016 奇葩獎](https://www.facebook.com/groups/HITCON/)
 * [BJ4](https://www.facebook.com/groups/businessjunglethursday/)
 * [MozTW@高雄](https://www.facebook.com/groups/1431756637126609/)
 * [高雄維基人](https://www.facebook.com/groups/762204640564473/)
@@ -118,3 +118,5 @@
 * [UI 就是要U & I  - 使用經驗你與我](https://www.facebook.com/groups/UI.You.I/)
 * [cs50 中文討論區](https://www.facebook.com/groups/556507217856457/)
 * [Daily ui challenge@taiwan](https://www.facebook.com/groups/895693593842577/)
+* [Test Corner](https://www.facebook.com/groups/test.corner/)
+* [React Native Girls](https://www.facebook.com/groups/1552560425038842/)
