@@ -10,3 +10,4 @@
 * [Git 情境劇 - 好麻煩部落格](http://gogojimmy.net/2012/02/29/git-scenario/)
 * [Git用法速成手册](http://www.techug.com/utm_sourcetuicoolutm-2)
 * [五倍紅寶石 Git 課程簡報](https://speakerdeck.com/eddie/use-git-to-control-your-life)
+* [ihower 的 Git 教室](https://ihower.tw/git/index.html)
