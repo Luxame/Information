@@ -3,7 +3,7 @@
 * [Pro Git(官方文件)](https://git-scm.com/book/zh-tw/v1)
 * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
 * [連猴子都能懂的Git入門指南| 貝格樂（Backlog）](https://backlogtool.com/git-guide/tw/)
-* [SITCON - Git](http://denny.one/SITCON-Workshop-2015-Apr-git/)
+* [SITCON - Git 丹丹](https://denny.one/git-slide/)
 
 > SITCON 簡報中後面有一些不錯參考資料來源
 
