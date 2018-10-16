@@ -34,6 +34,7 @@
 * [TDOH](https://www.facebook.com/groups/TDOHacker/?ref=browser)
 * [台灣駭客年會 HITCON 討論區](https://www.facebook.com/groups/HITCON/)
 * [台灣駭客年會 HITCON 2016 奇葩獎](https://www.facebook.com/groups/HITCON78awards/)
+* [NCNU ISSDNA 暨大資訊安全同好 - 系統 / 資料 / 網路 / 軟體](https://www.facebook.com/groups/issdna/)
 
 ### Open Source
 * [2015年嵌入式系統課程](https://www.facebook.com/groups/ncku.embedded2015/)
@@ -45,6 +46,11 @@
 * [Debian Taiwan](https://www.facebook.com/groups/debian.tw/)
 * [開源系統軟體](https://www.facebook.com/groups/1593073760915042/)
 * [MOSUT -- Meet Open Source User in Tainan](https://www.facebook.com/groups/mosut/)
+* [Ubuntu-TW 在地推廣組](https://www.facebook.com/groups/UbuntuTaiwan/)
+* [Ubuntu-TW LoCo Team - Ubuntu@Taiwan Community](https://www.facebook.com/ubuntu.tw/)
+* [NCNU OpenSource 暨南大學-自由軟體/開源軟體課程](https://www.facebook.com/groups/NCNU.OpenSource/)
+* [Ubuntu 正體中文社團](https://www.facebook.com/groups/ubuntu.zh.hant/)
+* [Linux MINT 中文社團](https://www.facebook.com/groups/linuxminttw/)
 
 ### C / C++
 * [C/C++初學者](https://www.facebook.com/groups/C.and.CPP.beginner/)
@@ -56,26 +62,30 @@
 * [DevOps Taiwan](https://www.facebook.com/groups/DevOpsTaiwan/?fref=ts)
 * [搞笑談軟工](https://www.facebook.com/groups/teddy.tw/)
 
+### Maker
+* [MOLi 創新自造者開放社群](https://www.facebook.com/groups/MOLi.rocks/)
+* [MOLi 創新自造者開放實驗室](https://www.facebook.com/MOLi.rocks/)
+* [Arduino.Taiwan](https://www.facebook.com/groups/Arduino.Taiwan/)
+
 ### 程式開發
+* [React Native Girls](https://www.facebook.com/groups/1552560425038842/)
+* [KSDG - 高雄軟體開發者社群](https://www.facebook.com/groups/KSDGroup/)
+
 
 -----------------------------------------------------------------------------------
 * [Backend 台灣 (Backend Tw)](https://www.facebook.com/groups/616369245163622/)
 * [RGBA](https://www.facebook.com/groups/open.rgba/)
-* [KSDG - 高雄軟體開發者社群](https://www.facebook.com/groups/KSDGroup/)
 * [Front-End Developers Taiwan](https://www.facebook.com/groups/f2e.tw/)
 * [使用者經驗研究分析](https://www.facebook.com/groups/uiux.tw/)
 * [Scrum Community in Taiwan](https://www.facebook.com/groups/179345672472/)
 * [MySQL User Group Taiwan](https://www.facebook.com/groups/taiwanmysqlusergroup/)
-* [Arduino.Taiwan](https://www.facebook.com/groups/Arduino.Taiwan/)
 * [Cat System Workshop](https://www.facebook.com/groups/1550862638557359/)
-* [Linux MINT 中文社團](https://www.facebook.com/groups/linuxminttw/)
 * [Python Taiwan](https://www.facebook.com/groups/pythontw/)
 * [PHP 台灣](https://www.facebook.com/groups/199493136812961/)
 * [Sinta Design 社群 - 學生資訊社群](https://www.facebook.com/groups/sintadesign/)
 * [遊戲人打怪完全攻略](https://www.facebook.com/groups/Gamer9999/)
 * [Vim 正體中文社群](https://www.facebook.com/groups/vim.tw/)
 * [Kaohsiung Python User Group](https://www.facebook.com/groups/kaohsiungpy/)
-* [Ubuntu 正體中文社團](https://www.facebook.com/groups/ubuntu.zh.hant/)
 * [KaLUG](https://www.facebook.com/groups/kalug.tw/)
 * [g0v.tw 後勤中心](https://www.facebook.com/groups/g0v.general/)
 * [專為 Windows 程式人寫的 Linux 學習手冊](https://www.facebook.com/groups/linuxForWindowsProgrammer/)
@@ -90,7 +100,6 @@
 * [Coursera/MOOCs 同學會](https://www.facebook.com/groups/courserazh/)
 * [使用者經驗研究分析](https://www.facebook.com/groups/uiux.tw/)
 * [程式語言讀書會JAVA,C,C++,C#,VB](https://www.facebook.com/groups/1403852566495675/)
-* [Fedora 中文社團](https://www.facebook.com/groups/fedora.chinesegroup/)
 * [2015年嵌入式系統課程](https://www.facebook.com/groups/ncku.embedded2015/)
 * [Android Developer開發讀書會](https://www.facebook.com/groups/523386591081376/)
 * [BJ4](https://www.facebook.com/groups/businessjunglethursday/)
@@ -119,7 +128,6 @@
 * [cs50 中文討論區](https://www.facebook.com/groups/556507217856457/)
 * [Daily ui challenge@taiwan](https://www.facebook.com/groups/895693593842577/)
 * [Test Corner](https://www.facebook.com/groups/test.corner/)
-* [React Native Girls](https://www.facebook.com/groups/1552560425038842/)
 * [NTUOSC 臺大開源社](https://www.facebook.com/groups/ntuosc/)
 * [10分鐘學簡報交流社團](https://www.facebook.com/groups/1080149785351887/)
 * [Vue.js  台灣](https://www.facebook.com/groups/vuejs.tw/)
