@@ -12,6 +12,7 @@
 * [node.js台灣](https://www.facebook.com/groups/node.js.tw/)
 * [jsTainan / 台南Javascript開發者社群](https://www.facebook.com/groups/1679708602271760/)
 * [React Native Taiwan](https://www.facebook.com/groups/1084440818288147/)
+* [Vue.js  台灣](https://www.facebook.com/groups/vuejs.tw/)
 
 ### 前端
 * [台中前端社群](https://www.facebook.com/groups/taichung.f2e/?fref=ts)
@@ -23,10 +24,10 @@
 ### 學生資訊
 * [學生計算機年會（SITCON）交流區](https://www.facebook.com/groups/sitcon.tw/)
 * [Students Game Dream 學生遊戲夢 交流區](https://www.facebook.com/groups/1114680481909430/)
-* [Sinta Design 社群 - 學生資訊社群](https://www.facebook.com/groups/sintadesign/)
 * [SITCON x HK 討論區](https://www.facebook.com/groups/SITCONxHK/)
 * [網路開源社](https://www.facebook.com/groups/196069837228280/)
 * [NTUOSC 臺大開源社](https://www.facebook.com/groups/ntuosc/)
+* [cs50 中文討論區](https://www.facebook.com/groups/556507217856457/)
 
 ### 行動裝置
 * [GDG Kaohsiung (原Android高雄開發者社群)](https://www.facebook.com/groups/AKDGroup/)
@@ -41,7 +42,7 @@
 * [台灣駭客年會 HITCON 2016 奇葩獎](https://www.facebook.com/groups/HITCON78awards/)
 * [NCNU ISSDNA 暨大資訊安全同好 - 系統 / 資料 / 網路 / 軟體](https://www.facebook.com/groups/issdna/)
 * [黑魔法防禦術](https://www.facebook.com/groups/308549376151517/)
-* [交大網路安全策進會](https://www.facebook.com/search/top/?q=%E4%BA%A4%E5%A4%A7%E7%B6%B2%E8%B7%AF%E5%AE%89%E5%85%A8%E7%AD%96%E9%80%B2%E6%9C%83)
+* [交大網路安全策進會](https://www.facebook.com/NCTUCSC/)
 
 ### Open Source
 * [Taiwan Linux Kernel Hackers](https://www.facebook.com/groups/twlinuxkernelhackers/)
@@ -61,6 +62,7 @@
 * [MozTW@高雄](https://www.facebook.com/groups/1431756637126609/)
 * [高雄維基人](https://www.facebook.com/groups/762204640564473/)
 * [OpenData / Taiwan](https://www.facebook.com/groups/odtwn/)
+* [自由開源軟體法律授權及產業動態新聞群組](https://www.facebook.com/groups/226875540746269/)
 
 ### C / C++
 * [C/C++初學者](https://www.facebook.com/groups/C.and.CPP.beginner/)
@@ -68,7 +70,8 @@
 * [2016年系統軟體課程](https://www.facebook.com/groups/system.software2016/)
 * [2017 年系統軟體系列課程討論區](https://www.facebook.com/groups/system.software2017/)
 * [2018 年系統軟體系列課程討論區](https://www.facebook.com/groups/system.software2018/)
-
+* [2019 年系統軟體系列課程討論區](https://www.facebook.com/groups/system.software2019/)
+* [2020 年系統軟體系列課程討論區](https://www.facebook.com/groups/system.software2020/)
 
 ### Docker
 * [Docker.Taipei](https://www.facebook.com/groups/docker.taipei/?fref=ts)
@@ -86,6 +89,11 @@
 * [React Native Girls](https://www.facebook.com/groups/1552560425038842/)
 * [KSDG - 高雄軟體開發者社群](https://www.facebook.com/groups/KSDGroup/)
 
+### Cloud Service
+* [AWS User Group Taiwan](https://www.facebook.com/groups/awsugtw/)
+* [Azure Taiwan User Group](https://www.facebook.com/groups/AzureTWUG/)
+
+
 
 -----------------------------------------------------------------------------------
 
@@ -97,7 +105,6 @@
 * [Cat System Workshop](https://www.facebook.com/groups/1550862638557359/)
 * [Python Taiwan](https://www.facebook.com/groups/pythontw/)
 * [PHP 台灣](https://www.facebook.com/groups/199493136812961/)
-* [Sinta Design 社群 - 學生資訊社群](https://www.facebook.com/groups/sintadesign/)
 * [遊戲人打怪完全攻略](https://www.facebook.com/groups/Gamer9999/)
 * [Vim 正體中文社群](https://www.facebook.com/groups/vim.tw/)
 * [Kaohsiung Python User Group](https://www.facebook.com/groups/kaohsiungpy/)
@@ -135,11 +142,9 @@
 * [Free Code Camp Kaohsiung](https://www.facebook.com/groups/free.code.camp.kaohsiung/)
 * [Free Code Camp Taichung City](https://www.facebook.com/groups/free.code.camp.taichung.city/)
 * [UI 就是要U & I  - 使用經驗你與我](https://www.facebook.com/groups/UI.You.I/)
-* [cs50 中文討論區](https://www.facebook.com/groups/556507217856457/)
 * [Daily ui challenge@taiwan](https://www.facebook.com/groups/895693593842577/)
 * [Test Corner](https://www.facebook.com/groups/test.corner/)
 * [10分鐘學簡報交流社團](https://www.facebook.com/groups/1080149785351887/)
-* [Vue.js  台灣](https://www.facebook.com/groups/vuejs.tw/)
 * [WordPress Taiwan 正體中文](https://www.facebook.com/groups/wordpresstw/)
 * [孤獨的編輯家—— Debater 小編 & 開發者社團](https://www.facebook.com/groups/597161320435546/)
 * [GCPUG.TW(Google Cloud Platform User Group Taiwan)](https://www.facebook.com/groups/GCPUG.TW/)
@@ -148,17 +153,13 @@
 * [Taiwan Hadoop User Group](https://www.facebook.com/groups/hadoop.tw/)
 * [Chatbot UX Taiwan](https://www.facebook.com/groups/cuitaiwan/)
 * [107 年新課綱資訊科技科意見討論交流園地](https://www.facebook.com/groups/176095679468923/)
-* [Javascript設計模式讀書會](https://www.facebook.com/groups/1140185326027725/)
 * [SDNDS.TW](https://www.facebook.com/groups/sdnds.tw/)
 * [Bluemix 非官方中文討論區](https://www.facebook.com/groups/bluemixtw/)
-* [AWS User Group Taiwan](https://www.facebook.com/groups/awsugtw/)
 * [UI 設計師精進會](https://www.facebook.com/groups/786411444764924/)
 * [Web 攻城獅讀書會](https://www.facebook.com/groups/1674578142764193/)
-* [Azure Taiwan User Group](https://www.facebook.com/groups/AzureTWUG/)
 * [Markdown 台灣](https://www.facebook.com/groups/830853873715381/)
 * [Agile.Taichung](https://www.facebook.com/groups/Agile.Taichung/)
 * [D3js.tw](https://www.facebook.com/groups/d3js.tw/)
-* [自由開源軟體法律授權及產業動態新聞群組](https://www.facebook.com/groups/226875540746269/)
 * [微軟台灣論壇愛好者俱樂部](https://www.facebook.com/groups/MSForumClub/)
 * [S4A](https://www.facebook.com/groups/288586661251852/)
 * [Web Tech Topic](https://www.facebook.com/groups/webtechtopic/)
