@@ -100,12 +100,6 @@
 * [Azure Taiwan User Group](https://www.facebook.com/groups/AzureTWUG/)
 * [GCPUG.TW(Google Cloud Platform User Group Taiwan)](https://www.facebook.com/groups/GCPUG.TW/)
 
-### UI / UX
-* [DESIGN plus / 設計+](https://www.facebook.com/groups/designplus.kh/)
-* [DesignAck 設計知](https://www.facebook.com/groups/434749066627773/)
-* [使用者經驗研究分析](https://www.facebook.com/groups/uiux.tw/)
-* [UI 就是要U & I  - 使用經驗你與我](https://www.facebook.com/groups/UI.You.I/)
-
 
 -----------------------------------------------------------------------------------
 
@@ -169,3 +163,10 @@
 * [Web Tech Topic](https://www.facebook.com/groups/webtechtopic/)
 * [RISC-V@Taiwan](https://www.facebook.com/groups/riscv.tw/)
 * [Swift iOS Development](https://www.facebook.com/groups/swiftiosdev/)
+
+
+### UI / UX
+* [DESIGN plus / 設計+](https://www.facebook.com/groups/designplus.kh/)
+* [DesignAck 設計知](https://www.facebook.com/groups/434749066627773/)
+* [使用者經驗研究分析](https://www.facebook.com/groups/uiux.tw/)
+* [UI 就是要U & I  - 使用經驗你與我](https://www.facebook.com/groups/UI.You.I/)
