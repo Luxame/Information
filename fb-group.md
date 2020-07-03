@@ -17,6 +17,7 @@
 ### 前端
 * [台中前端社群](https://www.facebook.com/groups/taichung.f2e/?fref=ts)
 * [高雄前端社群](https://www.facebook.com/groups/358503154261390/)
+* [Front-End Developers Taiwan](https://www.facebook.com/groups/f2e.tw/)
 
 ### 後端
 * [Backend 台灣 (Backend Tw)](https://www.facebook.com/groups/616369245163622/)
@@ -31,6 +32,11 @@
 
 ### 行動裝置
 * [GDG Kaohsiung (原Android高雄開發者社群)](https://www.facebook.com/groups/AKDGroup/)
+* [Flutter Taipei](https://www.facebook.com/groups/flutter.taipei/?multi_permalinks=2690603714539902%2C2689472737986333%2C2688345241432416&notif_id=1593515105626531&notif_t=group_activity)
+
+### JAVA
+* [Kotlin Taipei](https://www.facebook.com/groups/117755722221972/)
+
 
 ### Ruby on Rails
 * [Ruby on Rails 讀書會](https://www.facebook.com/groups/208890269174940/)
@@ -97,8 +103,6 @@
 
 -----------------------------------------------------------------------------------
 
-* [RGBA](https://www.facebook.com/groups/open.rgba/)
-* [Front-End Developers Taiwan](https://www.facebook.com/groups/f2e.tw/)
 * [使用者經驗研究分析](https://www.facebook.com/groups/uiux.tw/)
 * [Scrum Community in Taiwan](https://www.facebook.com/groups/179345672472/)
 * [MySQL User Group Taiwan](https://www.facebook.com/groups/taiwanmysqlusergroup/)
