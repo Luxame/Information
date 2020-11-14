@@ -62,24 +62,46 @@ rm -r dirName
 
 ```
 systemctl status ServiceName
+
+sample :
+systemctl status apache2
+systemctl status mysql
 ```
 
 檢查服務狀態
 
 ```
 systemctl start ServiceName
+
+sample :
+systemctl start apache2
+systemctl start mysql
 ```
 
 啟動服務
 
 ```
 systemctl stop ServiceName
+
+sample :
+systemctl stop apache2
+systemctl stop mysql
 ```
 
 停止服務
 
 ```
 systemctl restart ServiceName
+
+sample :
+systemctl restart apache2
+systemctl restart mysql
 ```
 
 重啟服務 ( 包含 stop 與 start 語法 )
+
+```
+pwd
+```
+
+顯示目前的目錄
