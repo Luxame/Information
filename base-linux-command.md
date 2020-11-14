@@ -62,18 +62,24 @@ rm -r dirName
 
 ```
 systemctl status ServiceName
+```
 
 檢查服務狀態
 
+```
 systemctl start ServiceName
+```
 
 啟動服務
 
+```
 systemctl stop ServiceName
+```
 
 停止服務
 
+```
 systemctl restart ServiceName
+```
 
 重啟服務 ( 包含 stop 與 start 語法 )
-```
