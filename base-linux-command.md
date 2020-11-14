@@ -51,11 +51,29 @@ rm -r dirName
 2. 將 file1 改檔名為 file2
 
 > mv 指令在 Linux / macOS 環境中沒有做搬移到其他資料夾行為
-
+>
 > 會是修改檔案名稱的行為
 
 `.` & `..`
 
 > 在 Linux / macOS 環境中一個點代表當前目錄位置
-
+>
 > 兩個點則是上一層的目錄位置
+
+```
+systemctl status ServiceName
+
+檢查服務狀態
+
+systemctl start ServiceName
+
+啟動服務
+
+systemctl stop ServiceName
+
+停止服務
+
+systemctl restart ServiceName
+
+重啟服務 ( 包含 stop 與 start 語法 )
+```
